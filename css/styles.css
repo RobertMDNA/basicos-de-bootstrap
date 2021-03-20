@@ -55,3 +55,12 @@ header.entry-header h1 {
 .service {
   padding: 150px 0;
 }
+
+article img.float-left{
+  margin-right: 20px;
+}
+
+article img.float-right{
+  margin-left: 20px;
+  margin-top: 30px;
+}
